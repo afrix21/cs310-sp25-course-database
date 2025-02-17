@@ -4,6 +4,7 @@ import com.github.cliftonlabs.json_simple.JsonArray;
 import com.github.cliftonlabs.json_simple.Jsoner;
 import edu.jsu.mcis.cs310.coursedb.dao.*;
 
+
 public class Main {
     
     private static final String USERNAME = "nobody@jsu.edu";
@@ -26,6 +27,7 @@ public class Main {
             System.out.println("Connected Successfully!");
             
         }
+        
         
     }
     
